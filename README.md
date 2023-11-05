@@ -1,10 +1,10 @@
 # Hello World :wave:
-## Qui suis-je ?
-Moi c'est Thomas BEZILLE, je viens de Nantes (France) et je suis développeur web.
+## Who am I ?
+I'm Thomas BEZILLE, from Nantes (France) and I'm a web developer.
 <!--[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Thomas-Bezille)](https://github.com/Thomas-Bezille)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas-Bezille&layout=compact)](https://github.com/Thomas-Bezille)-->
-## Formation
-Je suis actuellement en cours de formation au sein de l'école O'clock dans l'objectif de devenir développeur web PHP.
+## Education
+I'm currently training at the O'clock school with the aim of becoming a PHP web developer.
 ## Technologies
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -17,7 +17,7 @@ Je suis actuellement en cours de formation au sein de l'école O'clock dans l'ob
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-## Comment me contacter ?
+## How to contact me ?
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thomas-Bezille/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-bezille/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thomas.bezille.pro@gmail.com)
