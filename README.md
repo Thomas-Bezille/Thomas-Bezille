@@ -1,6 +1,7 @@
 # Hello World :wave:
 ## Who am I ?
 I'm Thomas BEZILLE, from Nantes (France) and I'm a web developer.
+Currently in formation as a Web Developer at O'clock
 <!--[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Thomas-Bezille)](https://github.com/Thomas-Bezille)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas-Bezille&layout=compact)](https://github.com/Thomas-Bezille)-->
 ## Education
