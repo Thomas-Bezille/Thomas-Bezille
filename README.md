@@ -1,23 +1,40 @@
-# Hello World :wave:
-## Who am I ?
-I'm Thomas BEZILLE, from Nantes (France) and I'm a web developer.
-<!--[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Thomas-Bezille)](https://github.com/Thomas-Bezille)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas-Bezille&layout=compact)](https://github.com/Thomas-Bezille)-->
-## Education
-I'm currently training at the O'clock school with the aim of becoming a PHP web developer.
+![banner](<img/Blue%20Yellow%20Modern%20Creative%20Entrepreneur%20LinkedIn%20Banner%20(1).png>)
+
+**Hi :wave:, I'm**
+
+# Thomas Bezille
+
+🚀 Développeur web en formation basé à Nantes, France.<br>
+📚 Actuellement en cours de formation chez O'clock pour perfectionner mes compétences en développement web.<br>
+💻 Passionné par les nouvelles technologies, l'informatique et le développement de sites web.<br>
+🛠️ Technologies que j'explore actuellement : Laravel, Symphony, et bien d'autres à venir !<br>
+🌐 Mon objectif : Contribuer au monde du développement web en apprenant continuellement et en collaborant sur des projets inspirants.<br>
+📫 N'hésitez pas à me contacter pour discuter de projets passionnants ou simplement pour échanger sur le monde du développement web !<br>
+⚡ "Le seul moyen de faire du bon travail est d'aimer ce que vous faites." - Steve Jobs
+
+<!-- [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Thomas-Bezille)](https://github.com/Thomas-Bezille)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas-Bezille&layout=compact)](https://github.com/Thomas-Bezille) -->
+
+## Formation
+
+Je suis actuellement engagé dans une passionnante aventure de formation chez O'clock en vue de devenir développeur web spécialisé en PHP. Plongé dans l'univers du code, je me familiarise avec les langages web essentiels tels que HTML, CSS, et JavaScript, tout en me perfectionnant dans l'écosystème PHP. Guidé par des instructeurs experts et entouré d'une communauté d'apprentissage dynamique, chaque jour est une nouvelle opportunité d'acquérir des compétences techniques avancées et de relever des défis stimulants. Cette expérience chez O'clock représente pour moi bien plus qu'une simple formation : c'est une véritable immersion dans le monde du développement web, où je construis les bases solides nécessaires pour transformer ma passion en une carrière épanouissante. Je suis impatient de mettre en pratique ces connaissances fraîchement acquises dans des projets concrets et de contribuer au monde du web avec des compétences solides en PHP.
+
 ## Technologies
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-## How to contact me ?
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thomas-Bezille/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-bezille/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thomas.bezille.pro@gmail.com)
+
+<img src="img/icons/html5-color.svg" width="32px">
+<img src="img/icons/css3-color.svg" width="32px">
+<img src="img/icons/bootstrap-color.svg" width="32px">
+<img src="img/icons/sass-color.svg" width="32px">
+<img src="img/icons/php-color.svg" width="32px">
+<img src="img/icons/laravel-color.svg" width="32px">
+<img src="img/icons/javascript-color.svg" width="32px">
+<img src="img/icons/mysql-color.svg" width="32px">
+<img src="img/icons/git-color.svg" width="32px">
+<img src="img/icons/github.svg" width="32px">
+<img src="img/icons/gitlab-color.svg" width="32px">
+
+## Comment me contacter ?
+
+<a href="https://github.com/Thomas-Bezille/"><img src="img/icons/github.svg" width="32px"></a>
+<a href="https://www.linkedin.com/in/thomas-bezille/"><img src="img/icons/linkedin-color.svg" width="32px"></a>
+<a href="mailto:thomas.bezille.pro@gmail.com"><img src="img/icons/gmail-color.svg" width="32px"></a>
