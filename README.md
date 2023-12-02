@@ -35,6 +35,6 @@ Je suis actuellement engagé dans une passionnante aventure de formation chez O'
 
 ## Comment me contacter ?
 
-<a href="https://github.com/Thomas-Bezille/" target="_blank"><img src="img/icons/github.svg" width="32px"></a>
-<a href="https://www.linkedin.com/in/thomas-bezille/" target="_blank"><img src="img/icons/linkedin-color.svg" width="32px"></a>
-<a href="mailto:thomas.bezille.pro@gmail.com" target="_blank"><img src="img/icons/gmail-color.svg" width="32px"></a>
+<a href="https://github.com/Thomas-Bezille/"><img src="img/icons/github.svg" width="32px"></a>
+<a href="https://www.linkedin.com/in/thomas-bezille/"><img src="img/icons/linkedin-color.svg" width="32px"></a>
+<a href="mailto:thomas.bezille.pro@gmail.com"><img src="img/icons/gmail-color.svg" width="32px"></a>
