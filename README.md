@@ -21,17 +21,17 @@ Je suis actuellement engagé dans une passionnante aventure de formation chez O'
 
 ## Technologies
 
-<img src="img/icons/html5-color.svg" width="32px">
-<img src="img/icons/css3-color.svg" width="32px">
-<img src="img/icons/bootstrap-color.svg" width="32px">
-<img src="img/icons/sass-color.svg" width="32px">
-<img src="img/icons/php-color.svg" width="32px">
-<img src="img/icons/laravel-color.svg" width="32px">
-<img src="img/icons/javascript-color.svg" width="32px">
-<img src="img/icons/mysql-color.svg" width="32px">
-<img src="img/icons/git-color.svg" width="32px">
-<img src="img/icons/github.svg" width="32px">
-<img src="img/icons/gitlab-color.svg" width="32px">
+<a><img src="img/icons/html5-color.svg" width="32px"></a>
+<a><img src="img/icons/css3-color.svg" width="32px"></a>
+<a><img src="img/icons/bootstrap-color.svg" width="32px"></a>
+<a><img src="img/icons/sass-color.svg" width="32px"></a>
+<a><img src="img/icons/php-color.svg" width="32px"></a>
+<a><img src="img/icons/laravel-color.svg" width="32px"></a>
+<a><img src="img/icons/javascript-color.svg" width="32px"></a>
+<a><img src="img/icons/mysql-color.svg" width="32px"></a>
+<a><img src="img/icons/git-color.svg" width="32px"></a>
+<a><img src="img/icons/github.svg" width="32px"></a>
+<a><img src="img/icons/gitlab-color.svg" width="32px"></a>
 
 ## Comment me contacter ?
 
