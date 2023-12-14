@@ -31,6 +31,7 @@ Je suis actuellement engagé dans une passionnante aventure de formation chez O'
 <a><img src="img/icons/javascript-color.svg" width="32px"></a>
 <a><img src="img/icons/wordpress-color.svg" width="32px"></a>
 <a><img src="img/icons/mysql-color.svg" width="32px"></a>
+<a><img src="img/icons/docker-color.svg" width="32px"></a>
 <a><img src="img/icons/git-color.svg" width="32px"></a>
 <a><img src="img/icons/github.svg" width="32px"></a>
 <a><img src="img/icons/gitlab-color.svg" width="32px"></a>
