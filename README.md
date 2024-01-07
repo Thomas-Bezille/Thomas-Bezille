@@ -27,6 +27,7 @@ Je suis actuellement engagé dans une passionnante aventure de formation chez O'
 <a><img src="img/icons/bootstrap-color.svg" width="32px"></a>
 <a><img src="img/icons/sass-color.svg" width="32px"></a>
 <a><img src="img/icons/php-color.svg" width="32px"></a>
+<a><img src="img/icons/symfony.svg" width="32px"></a>
 <a><img src="img/icons/laravel-color.svg" width="32px"></a>
 <a><img src="img/icons/javascript-color.svg" width="32px"></a>
 <a><img src="img/icons/wordpress-color.svg" width="32px"></a>
