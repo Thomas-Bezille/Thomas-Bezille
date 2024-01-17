@@ -12,8 +12,8 @@
 📫 N'hésitez pas à me contacter pour discuter de projets passionnants ou simplement pour échanger sur le monde du développement web !<br>
 ⚡ "Le seul moyen de faire du bon travail est d'aimer ce que vous faites." - Steve Jobs
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Thomas-Bezille)](https://github.com/Thomas-Bezille)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas-Bezille&layout=compact)](https://github.com/Thomas-Bezille)
+<!-- [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Thomas-Bezille)](https://github.com/Thomas-Bezille)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas-Bezille&layout=compact)](https://github.com/Thomas-Bezille) -->
 
 ## Formation
 
