@@ -7,7 +7,7 @@
 🚀 Développeur web en formation basé à Nantes, France.<br>
 📚 Actuellement en cours de formation chez O'clock pour perfectionner mes compétences en développement web.<br>
 💻 Passionné par les nouvelles technologies, l'informatique et le développement de sites web.<br>
-🛠️ Technologies que j'explore actuellement : Laravel, Symphony, et bien d'autres à venir !<br>
+🛠️ Technologies que j'explore actuellement : Java, et bien d'autres à venir !<br>
 🌐 Mon objectif : Contribuer au monde du développement web en apprenant continuellement et en collaborant sur des projets inspirants.<br>
 📫 N'hésitez pas à me contacter pour discuter de projets passionnants ou simplement pour échanger sur le monde du développement web !<br>
 ⚡ "Le seul moyen de faire du bon travail est d'aimer ce que vous faites." - Steve Jobs
