@@ -1,4 +1,4 @@
-![banner](img/banner.png)
+![banner](img/banner2.png)
 
 # Hey 👋, moi c'est Thomas
 
