@@ -1,42 +1,99 @@
-![banner](img/banner2.png)
+<!-- BANNIERE -->
 
-# Hey 👋, moi c'est Thomas
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Thomas%20Bezille&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 
-📌 Je suis de Nantes, en France<br>
-🚀 Développeur web<br>
-📚 Actuellement en cours de formation chez O'clock pour perfectionner mes compétences en développement web.<br>
-💻 Passionné par les nouvelles technologies, l'informatique et le développement de sites web.<br>
-🛠️ Technologies que j'explore actuellement : Java et Spring Boot<br>
-🌐 Mon objectif : Contribuer au monde du développement web en apprenant continuellement et en collaborant sur des projets inspirants.<br>
-📫 N'hésitez pas à me contacter pour discuter de projets passionnants ou simplement pour échanger sur le monde du développement web !<br>
-⚡ "Le seul moyen de faire du bon travail est d'aimer ce que vous faites." - Steve Jobs
+<h1 align="center">👋 Salut, moi c'est Thomas</h1>
+<h3 align="center">💻 Développeur | 🚀 Créateur de projets | ⚡ Passionné de technologie</h3>
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Thomas-Bezille)](https://github.com/Thomas-Bezille)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas-Bezille&layout=compact)](https://github.com/Thomas-Bezille)
+<p align="center">
+<a href="https://www.linkedin.com/in/thomas-bezille/">LinkedIn</a> •
+<a href="mailto:thomas.bezille.pro@gmail.com">Email</a>
+<!-- <a href="[portfolio]">Portfolio</a> • -->
+</p>
 
-## Formation
+---
 
-Je suis actuellement engagé dans une passionnante aventure de formation chez O'clock en vue de devenir développeur web. Plongé dans l'univers du code, je me familiarise avec les langages web essentiels tels que HTML, CSS, et JavaScript, tout en me perfectionnant dans l'écosystème PHP et Java. Guidé par des instructeurs experts et entouré d'une communauté d'apprentissage dynamique, chaque jour est une nouvelle opportunité d'acquérir des compétences techniques avancées et de relever des défis stimulants. Cette expérience chez O'clock représente pour moi bien plus qu'une simple formation : c'est une véritable immersion dans le monde du développement web, où je construis les bases solides nécessaires pour transformer ma passion en une carrière épanouissante. Je suis impatient de mettre en pratique ces connaissances fraîchement acquises dans des projets concrets et de contribuer au monde du web avec des compétences solides.
+# 🧠 À propos de moi
 
-## Technologies
+```txt
+💻 Développeur passionné par la création de projets utiles
+🚀 J'aime transformer des idées en applications concrètes
+🧠 Toujours en train d'apprendre et d'améliorer mes compétences
+🌍 Intéressé par l'open source et la collaboration
+```
 
-<a><img src="img/icons/html5-color.svg" width="32px"></a>
-<a><img src="img/icons/css3-color.svg" width="32px"></a>
-<a><img src="img/icons/javascript-color.svg" width="32px"></a>
-<a><img src="img/icons/php-color.svg" width="32px"></a>
-<a><img src="img/icons/symfony.svg" width="32px"></a>
-<a><img src="img/icons/react-color.svg" width="32px"></a>
-<a><img src="img/icons/redux-color.svg" width="32px"></a>
-<a><img src="img/icons/wordpress-color.svg" width="32px"></a>
-<a><img src="img/icons/mysql-color.svg" width="32px"></a>
-<a><img src="img/icons/tailwindcss.svg" width="32px"></a>
-<a><img src="img/icons/bootstrap-color.svg" width="32px"></a>
-<a><img src="img/icons/sass-color.svg" width="32px"></a>
-<a><img src="img/icons/git-color.svg" width="32px"></a>
+---
 
-## Comment me contacter ?
+# ⚡ Technologies
 
-<a href="https://github.com/Thomas-Bezille/"><img src="img/icons/github.svg" width="32px"></a>
-<a href="https://gitlab.com/Thomas-Bezille/"><img src="img/icons/gitlab.svg" width="32px"></a>
-<a href="https://www.linkedin.com/in/thomas-bezille/"><img src="img/icons/linkedin-color.svg" width="32px"></a>
-<a href="mailto:thomas.bezille.pro@gmail.com"><img src="img/icons/gmail-color.svg" width="32px"></a>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,php,symfony,wordpress,mysql" />
+</p>
+
+---
+
+# 📊 Statistiques GitHub
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Thomas-Bezille&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas-Bezille&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 Activité GitHub
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Thomas-Bezille&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+<!-- # 📈 Graphique de contributions
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Thomas-Bezille&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🐍 Snake des contributions
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Thomas-Bezille/Thomas-Bezille/output/snake.svg" />
+</p>
+
+--- -->
+
+<!-- # 🚀 Projets principaux
+
+### 🔹 [Projet 1]
+
+> Courte description du projet et de ce qu'il apporte.
+
+### 🔹 [Projet 2]
+
+> Courte description du projet et de ce qu'il apporte.
+
+### 🔹 [Projet 3]
+
+> Courte description du projet et de ce qu'il apporte.
+
+--- -->
+
+# 🎯 Objectifs
+
+- 📚 Continuer à apprendre de nouvelles technologies
+- 🛠️ Construire des projets utiles et propres
+- 🌍 Contribuer à l'open-source
+
+---
+
+<p align="center">
+⭐ Merci de visiter mon profil !
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
