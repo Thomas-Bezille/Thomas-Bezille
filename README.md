@@ -52,7 +52,7 @@
 
 ---
 
-<!-- # 📈 Graphique de contributions
+# 📈 Graphique de contributions
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thomas-Bezille&theme=tokyo-night&hide_border=true"/>
@@ -60,7 +60,7 @@
 
 ---
 
-# 🐍 Snake des contributions
+<!-- # 🐍 Snake des contributions
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Thomas-Bezille/Thomas-Bezille/output/snake.svg" />
