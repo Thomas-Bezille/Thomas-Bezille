@@ -6,8 +6,8 @@
 <h3 align="center">💻 Développeur | 🚀 Créateur de projets | ⚡ Passionné de technologie</h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/thomas-bezille/">LinkedIn</a> •
-<a href="mailto:thomas.bezille.pro@gmail.com">Email</a>
+<a href="https://www.linkedin.com/in/thomas-bezille/"><img src="https://skillicons.dev/icons?i=linkedin" /></a> •
+<a href="mailto:thomas.bezille.pro@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 <!-- <a href="[portfolio]">Portfolio</a> • -->
 </p>
 
@@ -44,21 +44,21 @@
 
 ---
 
-# 🔥 Activité GitHub
+<!-- # 🔥 Activité GitHub
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Thomas-Bezille&theme=tokyonight&hide_border=true"/>
 </p>
 
----
+--- -->
 
-# 📈 Graphique de contributions
+<!-- # 📈 Graphique de contributions
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thomas-Bezille&theme=tokyo-night&hide_border=true"/>
 </p>
 
----
+--- -->
 
 <!-- # 🐍 Snake des contributions
 
