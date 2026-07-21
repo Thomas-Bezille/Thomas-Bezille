@@ -1,99 +1,83 @@
 <!-- BANNIERE -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Thomas%20Bezille&fontSize=45&fontColor=ffffff&animation=fadeIn" />
-
-<h1 align="center">👋 Salut, moi c'est Thomas</h1>
-<h3 align="center">💻 Développeur | 🚀 Créateur de projets | ⚡ Passionné de technologie</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1B4332,100:52B788&height=220&section=header&text=Thomas%20Bezille&fontSize=45&fontColor=F7F2E9&animation=fadeIn&desc=D%C3%A9veloppeur%20web%20%C2%B7%20R%C3%A9gion%20de%20Nantes&descSize=18&descAlignY=62" />
 
 <p align="center">
-<a href="https://www.linkedin.com/in/thomas-bezille/"><img src="https://skillicons.dev/icons?i=linkedin" /></a> •
-<a href="mailto:thomas.bezille.pro@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-<!-- <a href="[portfolio]">Portfolio</a> • -->
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=1200&color=2D6A4F&center=true&vCenter=true&width=620&lines=Des+sites+web+rapides%2C+clairs+et+bien+construits;Visibles+sur+Google%2C+agr%C3%A9ables+sur+mobile;React+%C2%B7+Next.js+%C2%B7+TypeScript" alt="Des sites web rapides, clairs et bien construits" />
+</p>
+
+<p align="center">
+  <em>🎯 Je construis des sites web qui chargent vite, se trouvent sur Google<br />et donnent envie de décrocher son téléphone.</em>
+</p>
+
+<p align="center">
+  <a href="mailto:thomas.bezille.pro@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
+  &nbsp;• &nbsp;
+  <a href="https://www.linkedin.com/in/thomas-bezille/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
 </p>
 
 ---
 
-# 🧠 À propos de moi
+# 🧠 À propos
 
-```txt
-💻 Développeur passionné par la création de projets utiles
-🚀 J'aime transformer des idées en applications concrètes
-🧠 Toujours en train d'apprendre et d'améliorer mes compétences
-🌍 Intéressé par l'open source et la collaboration
-```
+Je code parce que j'aime comprendre comment les choses tiennent debout. Ouvrir le capot, démonter, remonter mieux. Un site bien fait, pour moi, c'est un site dont on ne remarque rien : il est simplement rapide, clair, et il fonctionne.
+
+Ce qui guide mon travail au quotidien :
+
+- ⚡ **La performance et l'accessibilité.** Un site qui met quatre secondes à s'afficher a déjà perdu. Un site inutilisable au clavier a perdu aussi.
+- 🔍 **Le détail qui ne se voit pas.** Le bon élément HTML, la balise meta juste, le contraste qui passe. Personne ne le remarque, tout le monde le ressent.
+- 💬 **Expliquer simplement.** Si je n'arrive pas à expliquer une décision technique à quelqu'un qui n'est pas développeur, c'est que je ne l'ai pas encore bien comprise.
+- 🛠️ **Faire, pas promettre.** Je préfère montrer un site qui tourne plutôt qu'un discours sur ce que je saurais faire.
+
+☕ En dehors du clavier : région de Nantes, beaucoup de café, et une curiosité qui déborde largement du code.
 
 ---
 
-# ⚡ Technologies
+# ⚡ Stack technique
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,php,symfony,wordpress,mysql" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,sass&perline=4" alt="React, Next.js, TypeScript, Sass" />
 </p>
+
+---
+
+# 🚀 Ce que je peux faire pour vous
+
+- 🌐 **Un site vitrine qui travaille pour vous.** Vos services, vos coordonnées, vos avis clients, présentés clairement. Un visiteur doit comprendre en dix secondes ce que vous faites et comment vous joindre.
+- 🔍 **Être trouvé sur Google.** SEO technique et référencement local soignés dès la conception, pour que les clients de votre secteur vous trouvent.
+- 📱 **Impeccable sur mobile.** La majorité de vos visiteurs sont sur téléphone. Le site est pensé pour eux d'abord.
+- ⚡ **Rapide, vraiment.** Chargement optimisé, images compressées, pas de superflu. La vitesse, c'est du chiffre d'affaires.
+- 🔄 **Une refonte qui remet à niveau.** Un site daté, lent ou pas responsive dessert votre image. On repart sur des bases propres.
+- 🤝 **Un interlocuteur unique, en français clair.** Pas de jargon, pas d'intermédiaire. Vous savez toujours où en est votre projet.
+
+💼 **Vous êtes artisan, commerçant ou dirigeant de PME dans la région nantaise ?** Parlons de votre projet.
 
 ---
 
 # 📊 Statistiques GitHub
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Thomas-Bezille&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas-Bezille&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Thomas-Bezille&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=2D6A4F&icon_color=52B788&text_color=808080&bg_color=00000000" alt="Statistiques GitHub de Thomas Bezille" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas-Bezille&layout=compact&hide_border=true&langs_count=8&title_color=2D6A4F&text_color=808080&bg_color=00000000" alt="Langages les plus utilisés" />
 </p>
 
 ---
 
-<!-- # 🔥 Activité GitHub
+# 📬 Travaillons ensemble
+
+Un projet de site vitrine, une refonte, ou juste une question technique ? Écrivez-moi, je réponds à tout le monde. 👋
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Thomas-Bezille&theme=tokyonight&hide_border=true"/>
+  <a href="mailto:thomas.bezille.pro@gmail.com">
+    <img src="https://img.shields.io/badge/thomas.bezille.pro@gmail.com-1B4332?style=for-the-badge&logo=gmail&logoColor=F7F2E9" alt="thomas.bezille.pro@gmail.com" />
+  </a>
+  <a href="https://www.linkedin.com/in/thomas-bezille/">
+    <img src="https://img.shields.io/badge/LinkedIn-2D6A4F?style=for-the-badge&logo=linkedin&logoColor=F7F2E9" alt="LinkedIn" />
+  </a>
 </p>
-
---- -->
-
-<!-- # 📈 Graphique de contributions
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Thomas-Bezille&theme=tokyo-night&hide_border=true"/>
+  ⭐ Merci d'être passé par ici !
 </p>
 
---- -->
-
-<!-- # 🐍 Snake des contributions
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Thomas-Bezille/Thomas-Bezille/output/snake.svg" />
-</p>
-
---- -->
-
-<!-- # 🚀 Projets principaux
-
-### 🔹 [Projet 1]
-
-> Courte description du projet et de ce qu'il apporte.
-
-### 🔹 [Projet 2]
-
-> Courte description du projet et de ce qu'il apporte.
-
-### 🔹 [Projet 3]
-
-> Courte description du projet et de ce qu'il apporte.
-
---- -->
-
-# 🎯 Objectifs
-
-- 📚 Continuer à apprendre de nouvelles technologies
-- 🛠️ Construire des projets utiles et propres
-- 🌍 Contribuer à l'open-source
-
----
-
-<p align="center">
-⭐ Merci de visiter mon profil !
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:52B788,100:1B4332&height=120&section=footer" />
