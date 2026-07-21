@@ -57,8 +57,10 @@ Ce qui guide mon travail au quotidien :
 # 📊 Statistiques GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Thomas-Bezille&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=2D6A4F&icon_color=52B788&text_color=808080&bg_color=00000000" alt="Statistiques GitHub de Thomas Bezille" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas-Bezille&layout=compact&hide_border=true&langs_count=8&title_color=2D6A4F&text_color=808080&bg_color=00000000" alt="Langages les plus utilisés" />
+  <!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=Thomas-Bezille&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=2D6A4F&icon_color=52B788&text_color=808080&bg_color=00000000" alt="Statistiques GitHub de Thomas Bezille" /> -->
+  <!-- <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas-Bezille&layout=compact&hide_border=true&langs_count=8&title_color=2D6A4F&text_color=808080&bg_color=00000000" alt="Langages les plus utilisés" /> -->
+  ![Statistiques GitHub de Thomas Bezille](https://github-readme-stats.vercel.app/api?username=Thomas-Bezille&show_icons=true&theme=radical) 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas-Bezille&layout=compact&theme=dark)   
 </p>
 
 ---
