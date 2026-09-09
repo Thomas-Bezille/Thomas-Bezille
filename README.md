@@ -57,7 +57,7 @@ Ce qui guide mon travail au quotidien :
 # 📊 Statistiques GitHub 
 
 <p align="center">
-  <img height="170" src="https://github-stats-extended.vercel.app/api?username=anuraghazra&hide=contribs,prs" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=Thomas-Bezille&show=contributions,all_time_contribs,reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_authored,prs_commented,prs_reviewed,issues_authored,issues_commented" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas-Bezille&layout=compact&hide_border=true&langs_count=8&title_color=2D6A4F&text_color=808080&bg_color=00000000" alt="Langages les plus utilisés" />
 </p>
 
