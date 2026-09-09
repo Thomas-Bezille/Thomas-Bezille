@@ -36,7 +36,7 @@ Ce qui guide mon travail au quotidien :
 # ⚡ Stack technique
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,sass&perline=4" alt="React, Next.js, TypeScript, Sass" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,sass&perline=4" alt="React, Next.js, TypeScript, Symfony, Sass" />
 </p>
 
 ---
@@ -57,8 +57,8 @@ Ce qui guide mon travail au quotidien :
 # 📊 Statistiques GitHub 
 
 <p align="center">
-  <img height="170" src="https://github-stats-extended.vercel.app/api?username=Thomas-Bezille&show_icons=true" />
-  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Thomas-Bezille" alt="Langages les plus utilisés" />
+  <img height="200" src="https://github-stats-extended.vercel.app/api?username=Thomas-Bezille&show_icons=true" />
+  <img height="200" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Thomas-Bezille" alt="Langages les plus utilisés" />
 </p>
 
 ---
