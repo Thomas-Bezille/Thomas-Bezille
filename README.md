@@ -58,7 +58,7 @@ Ce qui guide mon travail au quotidien :
 
 <p align="center">
   <img height="170" src="https://github-stats-extended.vercel.app/api?username=Thomas-Bezille&show_icons=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas-Bezille&layout=compact&hide_border=true&langs_count=8&title_color=2D6A4F&text_color=808080&bg_color=00000000" alt="Langages les plus utilisés" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Thomas-Bezille" alt="Langages les plus utilisés" />
 </p>
 
 ---
